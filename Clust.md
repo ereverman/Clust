@@ -1,3 +1,11 @@
+Need anaconda installed.
+
+To begin:
+```
+conda create -c bioconda -n ClustEnv clust
+```
+
+
 On my computer:
 1. activate conda environment for clust: ClustEnv
 2. updata Clust:
